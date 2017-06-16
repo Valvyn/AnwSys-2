@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+C:\Users\Asti\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1591374952.index
+3135395139.index
+603626996.index
+323617224.index
+573484080.index
+2157082439.index
+330034526.index
